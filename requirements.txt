@@ -1,1 +1,12 @@
-# Add Python package requirements here
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+prophet
+scipy
+tqdm
+python-dateutil
+pydantic
+joblib
